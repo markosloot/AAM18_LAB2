@@ -1,5 +1,5 @@
-# DKA_Lab-2
-Лабораторная работа №2 на Python. Создание простейшей визуальной программы с помощью PyQt5.
-
-
-![Task_2](https://user-images.githubusercontent.com/70965647/192250523-ae7646b6-4043-49f5-9fc3-9f28a596e18a.png)
+# AAM18_LAB1
+Алтиев Азамат Маратович ИС-402 <br />
+Задание №2 <br />
+Вариант 18 <br />
+![Скрин программы](https://raw.githubusercontent.com/markosloot/AAM18_LAB2/main/2.png)
